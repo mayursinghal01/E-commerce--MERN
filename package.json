@@ -27,7 +27,7 @@
     "nodemon": "^2.0.2"
   },
   "scripts": {
-    "start": "nodemon --watch backend --exec babel-node server.js"
+    "start": "nodemon --watch backend --exec babel-node backend/server.js"
   },
   "author": "",
   "license": "ISC",
